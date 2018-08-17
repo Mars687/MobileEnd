@@ -286,7 +286,7 @@ document.querySelector('meta[name="viewport"]').setAttribute('content','width=de
 
 4、和淘宝的做法一样，文字字体大小不要使用rem换算。
 
-下面是这种做法的html莫板：
+下面是这种做法的html模板：
 
 ```html
 <html>
